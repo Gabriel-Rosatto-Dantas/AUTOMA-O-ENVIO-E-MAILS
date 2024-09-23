@@ -87,7 +87,7 @@ def percorrer_abas_recebimento():
         'XAP': ['E-mail48'],
         'OPS': ['E-mail49']
     }
-    cc = ['felipe.ginicolo@latam.com', 'pedro.alves@latam.com']
+    cc = ['']
 
     for aba in abas:
         nome_aba = aba.title
